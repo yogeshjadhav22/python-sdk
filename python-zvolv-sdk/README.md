@@ -2,7 +2,7 @@
   <img src="https://github.com/box/sdks/blob/master/images/box-dev-logo.png" alt= “box-dev-logo” width="30%" height="50%">
 </p> -->
 
-# zvolv Python SDK
+# z Python SDK
 
 [![image](http://opensource.box.com/badges/active.svg)]
 [![image](https://img.shields.io/pypi/v/boxsdk.svg)]
